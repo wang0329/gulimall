@@ -1,0 +1,16 @@
+2022-10-01 14:52:39,058 INFO [dump-task] add task. groupKey=gulimall-coupon.properties+DEFAULT_GROUP, taskKey=gulimall-coupon.properties+DEFAULT_GROUP++false+null
+
+2022-10-01 14:54:34,042 INFO [dump-task] add task. groupKey=gulimall-coupon.properties+DEFAULT_GROUP, taskKey=gulimall-coupon.properties+DEFAULT_GROUP++false+null
+
+2022-10-01 15:02:16,039 INFO [dump-task] add task. groupKey=gulimall-coupon.properties+DEFAULT_GROUP, taskKey=gulimall-coupon.properties+DEFAULT_GROUP++false+null
+
+2022-10-01 15:04:58,035 INFO [dump-task] add task. groupKey=gulimall-coupon.properties+DEFAULT_GROUP, taskKey=gulimall-coupon.properties+DEFAULT_GROUP++false+null
+
+2022-10-01 15:14:16,939 INFO [dump-task] add task. groupKey=gulimall-coupon+DEFAULT_GROUP+ab8e0421-1cc7-4e4e-991d-b35da52621c1, taskKey=gulimall-coupon+DEFAULT_GROUP+ab8e0421-1cc7-4e4e-991d-b35da52621c1+false+null
+
+2022-10-01 15:15:43,752 INFO [dump-task] add task. groupKey=gulimall-coupon+DEFAULT_GROUP+ab8e0421-1cc7-4e4e-991d-b35da52621c1, taskKey=gulimall-coupon+DEFAULT_GROUP+ab8e0421-1cc7-4e4e-991d-b35da52621c1+false+null
+
+2022-10-01 15:16:00,707 INFO [dump-task] add task. groupKey=gulimall-coupon+DEFAULT_GROUP+ab8e0421-1cc7-4e4e-991d-b35da52621c1, taskKey=gulimall-coupon+DEFAULT_GROUP+ab8e0421-1cc7-4e4e-991d-b35da52621c1+false+null
+
+2022-10-01 15:46:49,270 INFO [dump-task] add task. groupKey=gulimall-gateway.yml+DEFAULT_GROUP+ce8a402d-f548-4e5f-98f5-0b471984a0e0, taskKey=gulimall-gateway.yml+DEFAULT_GROUP+ce8a402d-f548-4e5f-98f5-0b471984a0e0+false+null
+

@@ -2,18 +2,22 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.atguigu.gulimail</groupId>
-    <artifactId>gulimail</artifactId>
+    <groupId>com.wbj.gulimall</groupId>
+    <artifactId>gulimall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gulimail</name>
-    <description>聚合服务</description>
+    <name>gulimall</name>
+    <description>谷粒商城</description>
     <packaging>pom</packaging>
+
     <modules>
-        <module>gulimail-coupon</module>
-        <module>gulimail-member</module>
-        <module>gulimail-order</module>
-        <module>gulimail-product</module>
-        <module>gulimail-ware</module>
+        <module>gulimall-product</module>
+        <module>gulimall-order</module>
+        <module>gulimall-ware</module>
+        <module>gulimall-coupon</module>
+        <module>gulimall-member</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>gulimall-common</module>
     </modules>
 
 </project>
