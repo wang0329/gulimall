@@ -1,5 +1,7 @@
 server:
   port: 8000
+  error:
+    include-binding-errors: always
 spring:
   datasource:
     username: root
@@ -10,6 +12,11 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
+    alicloud:
+      access-key: LTAI5t8TDJuiTTD9NK4T5n3G
+      secret-key: VuZ1AkgFtxblVka9cD3OUz8WVeGLCE
+      oss:
+        endpoint: oss-cn-hangzhou.aliyuncs.com
   application:
     name: gulimall-product
 mybatis-plus:
@@ -17,3 +24,8 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: auto
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+logging:
+  level:
+    com.wbj.gulimall: debug

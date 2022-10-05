@@ -1,0 +1,144 @@
+2022-10-03 20:19:45,528 INFO Starting Nacos v1.4.4 using Java 1.8.0_181 on DESKTOP-5UEH8HM with PID 6372 (E:\JavaDemo\gulimall\nacos\target\nacos-server.jar started by wbj in E:\JavaDemo\gulimall\nacos)
+
+2022-10-03 20:19:45,531 INFO The following 1 profile is active: "standalone"
+
+2022-10-03 20:19:47,835 INFO Tomcat initialized with port(s): 8848 (http)
+
+2022-10-03 20:19:47,845 INFO Starting service [Tomcat]
+
+2022-10-03 20:19:47,845 INFO Starting Servlet engine: [Apache Tomcat/9.0.60]
+
+2022-10-03 20:19:48,212 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2022-10-03 20:19:48,269 INFO Initializing Spring embedded WebApplicationContext
+
+2022-10-03 20:19:48,269 INFO Root WebApplicationContext: initialization completed in 2685 ms
+
+2022-10-03 20:19:48,755 INFO HikariPool-1 - Starting...
+
+2022-10-03 20:19:48,760 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2022-10-03 20:19:49,083 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2022-10-03 20:19:49,086 INFO HikariPool-1 - Start completed.
+
+2022-10-03 20:19:50,039 INFO Nacos-related cluster resource initialization
+
+2022-10-03 20:19:50,048 INFO The cluster resource is initialized
+
+2022-10-03 20:19:50,252 INFO Reflections took 41 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2022-10-03 20:19:50,304 INFO Reflections took 4 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2022-10-03 20:19:50,319 INFO Reflections took 4 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2022-10-03 20:19:50,329 INFO Reflections took 3 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2022-10-03 20:19:51,050 INFO Adding welcome page: class path resource [static/index.html]
+
+2022-10-03 20:19:51,421 WARN You are asking Spring Security to ignore Ant [pattern='/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2022-10-03 20:19:51,422 INFO Will secure Ant [pattern='/**'] with []
+
+2022-10-03 20:19:51,454 INFO Will not secure any request
+
+2022-10-03 20:19:51,484 INFO Exposing 1 endpoint(s) beneath base path '/actuator'
+
+2022-10-03 20:19:51,600 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2022-10-03 20:19:51,656 INFO Started Nacos in 7.212 seconds (JVM running for 7.861)
+
+2022-10-03 20:19:51,657 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2022-10-03 20:20:14,253 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2022-10-03 20:20:14,253 INFO Initializing Servlet 'dispatcherServlet'
+
+2022-10-03 20:20:14,254 INFO Completed initialization in 1 ms
+
+2022-10-03 20:29:50,455 INFO [capacityManagement] start correct usage
+
+2022-10-03 20:29:50,471 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 20:29:50,562 WARN clearConfigHistory start
+
+2022-10-03 20:39:50,473 INFO [capacityManagement] start correct usage
+
+2022-10-03 20:39:50,473 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 20:39:50,571 WARN clearConfigHistory start
+
+2022-10-03 20:49:50,474 INFO [capacityManagement] start correct usage
+
+2022-10-03 20:49:50,476 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 20:49:50,578 WARN clearConfigHistory start
+
+2022-10-03 20:59:50,479 INFO [capacityManagement] start correct usage
+
+2022-10-03 20:59:50,481 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 20:59:50,584 WARN clearConfigHistory start
+
+2022-10-03 21:09:50,482 INFO [capacityManagement] start correct usage
+
+2022-10-03 21:09:50,483 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 21:09:50,586 WARN clearConfigHistory start
+
+2022-10-03 21:19:50,486 INFO [capacityManagement] start correct usage
+
+2022-10-03 21:19:50,486 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 21:19:50,587 WARN clearConfigHistory start
+
+2022-10-03 21:29:50,489 INFO [capacityManagement] start correct usage
+
+2022-10-03 21:29:50,489 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 21:29:50,591 WARN clearConfigHistory start
+
+2022-10-03 21:39:50,494 INFO [capacityManagement] start correct usage
+
+2022-10-03 21:39:50,494 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 21:39:50,595 WARN clearConfigHistory start
+
+2022-10-03 21:49:50,496 INFO [capacityManagement] start correct usage
+
+2022-10-03 21:49:50,498 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 21:49:50,598 WARN clearConfigHistory start
+
+2022-10-03 21:59:50,501 INFO [capacityManagement] start correct usage
+
+2022-10-03 21:59:50,502 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 21:59:50,600 WARN clearConfigHistory start
+
+2022-10-03 22:09:50,506 INFO [capacityManagement] start correct usage
+
+2022-10-03 22:09:50,507 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-03 22:09:50,603 WARN clearConfigHistory start
+
+2022-10-03 22:16:50,618 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2022-10-03 22:16:50,618 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2022-10-03 22:16:50,618 WARN [WatchFileCenter] start close
+
+2022-10-03 22:16:50,618 WARN [NotifyCenter] Start destroying Publisher
+
+2022-10-03 22:16:50,623 WARN [ConfigServer-HttpClientManager] Destruction of the end
+
+2022-10-03 22:16:50,619 WARN [WatchFileCenter] start to shutdown this watcher which is watch : E:\JavaDemo\gulimall\nacos\conf
+
+2022-10-03 22:16:50,623 WARN [HttpClientBeanHolder] Destruction of the end
+
+2022-10-03 22:16:50,619 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2022-10-03 22:16:50,622 WARN [NotifyCenter] Destruction of the end
+
+2022-10-03 22:16:50,623 WARN [WatchFileCenter] already closed
+

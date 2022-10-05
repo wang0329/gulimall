@@ -1,0 +1,28 @@
+2022-10-02 11:16:40,839 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.52.1:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-02 11:16:40,840 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.52.1:8000_true,
+
+2022-10-02 11:23:58,265 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.52.1:8000_true,
+
+2022-10-02 11:35:24,643 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.52.1:8000_true,
+
+2022-10-02 11:37:02,526 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.52.1:8000_true,
+
+2022-10-02 11:43:57,127 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.52.1:8000_true,
+
+2022-10-02 12:58:59,984 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.52.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-02 12:58:59,984 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.52.1:8080_true,
+
+2022-10-02 13:08:07,966 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.52.1:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-02 13:08:07,966 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 192.168.52.1:88_true,
+
+2022-10-02 13:08:45,378 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.52.1:8080_true,
+
+2022-10-02 13:27:43,910 INFO {POS} {IP-DISABLED} valid: 192.168.52.1:8000@DEFAULT@DEFAULT_GROUP@@gulimall-product, region: unknown, msg: client timeout after 15000, last beat: 1664688447251
+
+2022-10-02 13:27:45,665 INFO {POS} {IP-DISABLED} valid: 192.168.52.1:8080@DEFAULT@DEFAULT_GROUP@@renren-fast, region: unknown, msg: client timeout after 15000, last beat: 1664688446059
+
+2022-10-02 13:27:48,439 INFO {POS} {IP-DISABLED} valid: 192.168.52.1:88@DEFAULT@DEFAULT_GROUP@@gulimall-gateway, region: unknown, msg: client timeout after 15000, last beat: 1664688448888
+

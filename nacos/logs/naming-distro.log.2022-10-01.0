@@ -1,0 +1,10 @@
+2022-10-01 13:33:25,671 INFO distro notifier started
+
+2022-10-01 14:11:15,944 INFO [DISTRO-WARN] RecordListener not found, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gulimall-member
+
+2022-10-01 14:37:15,943 INFO [DISTRO-WARN] RecordListener not found, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gulimall-order
+
+2022-10-01 14:37:45,938 INFO [DISTRO-WARN] RecordListener not found, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gulimall-product
+
+2022-10-01 14:37:45,939 INFO [DISTRO-WARN] RecordListener not found, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gulimall-ware
+

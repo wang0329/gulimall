@@ -1,0 +1,30 @@
+2022-10-04 12:21:05,256 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1664607898030, length=43, md5=7f4ea927ddeb8c75a0417b75d4c1e00d
+
+2022-10-04 12:21:05,256 INFO [dump-all-ok] gulimall-coupon+DEFAULT_GROUP, 1664608560701, length=41, md5=c384decc2341f1e16a36a40a2ce6ec69
+
+2022-10-04 12:21:05,256 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1664610409263, length=59, md5=dedbd099d1812c2af5bd7693c68f2a81
+
+2022-10-04 18:32:17,432 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1664607898030, length=43, md5=7f4ea927ddeb8c75a0417b75d4c1e00d
+
+2022-10-04 18:32:17,432 INFO [dump-all-ok] gulimall-coupon+DEFAULT_GROUP, 1664608560701, length=41, md5=c384decc2341f1e16a36a40a2ce6ec69
+
+2022-10-04 18:32:17,433 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1664610409263, length=59, md5=dedbd099d1812c2af5bd7693c68f2a81
+
+2022-10-04 21:59:08,257 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1664607898030, length=43, md5=7f4ea927ddeb8c75a0417b75d4c1e00d
+
+2022-10-04 21:59:08,257 INFO [dump-all-ok] gulimall-coupon+DEFAULT_GROUP, 1664608560701, length=41, md5=c384decc2341f1e16a36a40a2ce6ec69
+
+2022-10-04 21:59:08,257 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1664610409263, length=59, md5=dedbd099d1812c2af5bd7693c68f2a81
+
+2022-10-04 22:01:59,901 INFO [dump-task] add task. groupKey=oss.yml+DEFAULT_GROUP+b3c72727-e845-4a1f-a2ea-7f1fbfce695d, taskKey=oss.yml+DEFAULT_GROUP+b3c72727-e845-4a1f-a2ea-7f1fbfce695d+false+null
+
+2022-10-04 22:10:25,762 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1664607898030, length=43, md5=7f4ea927ddeb8c75a0417b75d4c1e00d
+
+2022-10-04 22:10:25,762 INFO [dump-all-ok] gulimall-coupon+DEFAULT_GROUP, 1664608560701, length=41, md5=c384decc2341f1e16a36a40a2ce6ec69
+
+2022-10-04 22:10:25,762 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1664610409263, length=59, md5=dedbd099d1812c2af5bd7693c68f2a81
+
+2022-10-04 22:10:25,762 INFO [dump-all-ok] oss.yml+DEFAULT_GROUP, 1664892119828, length=188, md5=91451941571c0d98ed1bcc5a023132d3
+
+2022-10-04 22:12:58,936 INFO [dump-task] add task. groupKey=oss.yml+DEFAULT_GROUP+b3c72727-e845-4a1f-a2ea-7f1fbfce695d, taskKey=oss.yml+DEFAULT_GROUP+b3c72727-e845-4a1f-a2ea-7f1fbfce695d+false+null
+
