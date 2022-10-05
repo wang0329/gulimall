@@ -22,3 +22,11 @@
 
 2022-10-05 20:00:55,054 INFO [dump-all-ok] oss.yml+DEFAULT_GROUP, 1664892778838, length=181, md5=180167f59eacb16d9684193c04429d9c
 
+2022-10-05 20:09:40,297 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1664607898030, length=43, md5=7f4ea927ddeb8c75a0417b75d4c1e00d
+
+2022-10-05 20:09:40,297 INFO [dump-all-ok] gulimall-coupon+DEFAULT_GROUP, 1664608560701, length=41, md5=c384decc2341f1e16a36a40a2ce6ec69
+
+2022-10-05 20:09:40,297 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1664610409263, length=59, md5=dedbd099d1812c2af5bd7693c68f2a81
+
+2022-10-05 20:09:40,298 INFO [dump-all-ok] oss.yml+DEFAULT_GROUP, 1664892778838, length=181, md5=180167f59eacb16d9684193c04429d9c
+

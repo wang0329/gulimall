@@ -370,3 +370,67 @@
 
 2022-10-05 20:02:17,997 WARN [WatchFileCenter] already closed
 
+2022-10-05 20:09:35,730 INFO Starting Nacos v1.4.4 using Java 1.8.0_181 on DESKTOP-5UEH8HM with PID 14296 (E:\JavaDemo\gulimall\nacos\target\nacos-server.jar started by wbj in E:\JavaDemo\gulimall)
+
+2022-10-05 20:09:35,730 INFO The following 1 profile is active: "standalone"
+
+2022-10-05 20:09:37,933 INFO Tomcat initialized with port(s): 8848 (http)
+
+2022-10-05 20:09:37,943 INFO Starting service [Tomcat]
+
+2022-10-05 20:09:37,943 INFO Starting Servlet engine: [Apache Tomcat/9.0.60]
+
+2022-10-05 20:09:38,266 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2022-10-05 20:09:38,320 INFO Initializing Spring embedded WebApplicationContext
+
+2022-10-05 20:09:38,320 INFO Root WebApplicationContext: initialization completed in 2536 ms
+
+2022-10-05 20:09:38,693 INFO HikariPool-1 - Starting...
+
+2022-10-05 20:09:38,696 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2022-10-05 20:09:38,946 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2022-10-05 20:09:38,949 INFO HikariPool-1 - Start completed.
+
+2022-10-05 20:09:39,833 INFO Nacos-related cluster resource initialization
+
+2022-10-05 20:09:39,843 INFO The cluster resource is initialized
+
+2022-10-05 20:09:40,049 INFO Reflections took 54 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2022-10-05 20:09:40,074 INFO Reflections took 4 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2022-10-05 20:09:40,089 INFO Reflections took 5 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2022-10-05 20:09:40,097 INFO Reflections took 3 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2022-10-05 20:09:40,825 INFO Adding welcome page: class path resource [static/index.html]
+
+2022-10-05 20:09:41,152 WARN You are asking Spring Security to ignore Ant [pattern='/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2022-10-05 20:09:41,153 INFO Will secure Ant [pattern='/**'] with []
+
+2022-10-05 20:09:41,183 INFO Will not secure any request
+
+2022-10-05 20:09:41,208 INFO Exposing 1 endpoint(s) beneath base path '/actuator'
+
+2022-10-05 20:09:41,257 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2022-10-05 20:09:41,277 INFO Started Nacos in 6.694 seconds (JVM running for 7.333)
+
+2022-10-05 20:09:41,278 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2022-10-05 20:10:15,331 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2022-10-05 20:10:15,332 INFO Initializing Servlet 'dispatcherServlet'
+
+2022-10-05 20:10:15,332 INFO Completed initialization in 0 ms
+
+2022-10-05 20:19:40,218 INFO [capacityManagement] start correct usage
+
+2022-10-05 20:19:40,237 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-10-05 20:19:40,321 WARN clearConfigHistory start
+
